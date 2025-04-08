@@ -1,0 +1,6 @@
+{
+    "name": "SaveDB",
+    "protocol": "savedb",
+    "version": "1.0.0",
+    "description": "SaveDB is a simple, super secure, fast and lightweight database that works on the noSQL principle."
+}

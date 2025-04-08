@@ -1,0 +1,6 @@
+services:
+  python_app:
+    build: . # <-- Correct indentation
+    container_name: saveDB # <-- Correct indentation
+    # ports:
+    #   - "68228:68228"
